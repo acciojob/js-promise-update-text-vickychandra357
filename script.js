@@ -1,7 +1,7 @@
 //your JS code here. If required.
  const myPromise=new Promise((resolve,reject)=>{
 	 setTimeout(()=>{
-		 resolve("Hello, World!");
+		 resolve("Hello, world!");
 	 },1000)
  });
 // document.getElementById("output").innerHtml=myPromise;
